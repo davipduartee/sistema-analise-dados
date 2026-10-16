@@ -1,0 +1,32 @@
+{
+  "excecoes.py": {
+    "mtime": 1792117408.3755064,
+    "seen": 1792117590.470347,
+    "ast_hash": "047e0593bedd559aaf7e42a89979382a",
+    "semantic_hash": "047e0593bedd559aaf7e42a89979382a"
+  },
+  "main.py": {
+    "mtime": 1792117408.3755064,
+    "seen": 1792117590.4703531,
+    "ast_hash": "cbab0ea1be3db95cba49b6a69c8c6d96",
+    "semantic_hash": "cbab0ea1be3db95cba49b6a69c8c6d96"
+  },
+  "relatorio.py": {
+    "mtime": 1792117408.3755064,
+    "seen": 1792117590.4703562,
+    "ast_hash": "7db9297d304fe65608259b2482135ec7",
+    "semantic_hash": "7db9297d304fe65608259b2482135ec7"
+  },
+  "validadores.py": {
+    "mtime": 1792117408.3755064,
+    "seen": 1792117590.4703577,
+    "ast_hash": "e2594efce7430d9ec728451c6685971b",
+    "semantic_hash": "e2594efce7430d9ec728451c6685971b"
+  },
+  "README.md": {
+    "mtime": 1792117408.3747318,
+    "seen": 1792117590.470359,
+    "ast_hash": "d1559691ce66cf2b2832624c40349a1e",
+    "semantic_hash": "d1559691ce66cf2b2832624c40349a1e"
+  }
+}
