@@ -2,7 +2,7 @@
   "mcpServers": {
     "shadcn": {
       "command": "npx",
-      "args": ["-y", "@jpisnice/shadcn-ui-mcp-server", "--framework", "react"],
+      "args": ["-y", "@jpisnice/shadcn-ui-mcp-server@3.0.0", "--framework", "react"],
       "env": {
         "GITHUB_PERSONAL_ACCESS_TOKEN": "${GITHUB_PERSONAL_ACCESS_TOKEN:-}"
       }
