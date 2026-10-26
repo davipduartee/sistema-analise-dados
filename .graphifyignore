@@ -1,3 +1,4 @@
 # Arquivos de configuração do próprio graphify/Claude Code — fora do grafo
 CLAUDE.md
 .claude/
+.mcp.json
