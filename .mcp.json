@@ -6,6 +6,13 @@
       "env": {
         "GITHUB_PERSONAL_ACCESS_TOKEN": "${GITHUB_PERSONAL_ACCESS_TOKEN:-}"
       }
+    },
+    "docling": {
+      "command": "uvx",
+      "args": ["--from", "docling-mcp[local]==3.4.0", "docling-mcp-server", "--transport", "stdio"],
+      "env": {
+        "DOCLING_MCP_CONVERSION_MODE": "local"
+      }
     }
   }
 }
